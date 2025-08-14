@@ -1,0 +1,5 @@
+# View Task
+def show_tasks():
+    # Get all tasks from database
+    # Return response
+   return []
